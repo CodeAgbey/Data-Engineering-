@@ -2,9 +2,13 @@
 
 **Stock Market Data**: I also used Alpha Vantage API to extract stock market data to get historical stock prices for the following companies:
 •	Apple
+
 •	Microsoft
+
 •	Google
+
 •	Amazon
+
 •	Meta
 
 I have removed the Alpha Vantage API I used for security and privacy reasons.
