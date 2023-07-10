@@ -1,6 +1,7 @@
 **Financial News**: In this project, I scraped financial news websites from CNBC using  BeautifulSoup to collect all the headlines on the page at the moment of performing the requests. I Saved the timestamp of my extraction
 
 **Stock Market Data**: I also used Alpha Vantage API to extract stock market data to get historical stock prices for the following companies:
+
 •	Apple
 
 •	Microsoft
